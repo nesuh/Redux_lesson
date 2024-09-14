@@ -1,4 +1,4 @@
-https://github.com/nesuh/Redux_lesson/blob/project2/src/assets/lesson2ReduxSlice.jpg
+src/assets/lesson2ReduxSlice.jpg
 
 
 
