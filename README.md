@@ -1,4 +1,5 @@
-src/assets/lesson2ReduxSlice.jpg
+![Lesson 2 Redux Slice](src/assets/lesson2ReduxSlice.jpg)
+
 
 
 
